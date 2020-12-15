@@ -1,0 +1,83 @@
+Position,Column Name,Description
+1,Subject_ID,Id of the different 30 subjects. Each number represents a different subject
+2,Activity_Description,"Description of the 6 different activities done by the subjects. The activitpes include: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing and Laying"
+3,Activity_ID_1,"Id of the different 6 activities. Each number represents a different activity. 1 Walking, 2 Walking Upstairs, 3 Walking Downstairs, 4 Sitting, 5 Standing and 6 Laying"
+4,tBodyAcc-mean()-X_1,Average of the Time Domain Signal of the body acceleration in the X-axis
+5,tBodyAcc-mean()-Y_1,Average of the Time Domain Signal of the body acceleration in the Y-axis
+6,tBodyAcc-mean()-Z_1,Average of the Time Domain Signal of the body acceleration in the Z-axis
+7,tBodyAcc-std()-X_1,Standard Deviation of the Time Domain Signal of the body acceleration in the X-axis
+8,tBodyAcc-std()-Y_1,Standard Deviation of the Time Domain Signal of the body acceleration in the Y-axis
+9,tBodyAcc-std()-Z_1,Standard Deviation of the Time Domain Signal of the body acceleration in the Z-axis
+10,tGravityAcc-mean()-X_1,Average of the Time Domain Signal of the gravity acceleration in the X-axis
+11,tGravityAcc-mean()-Y_1,Average of the Time Domain Signal of the gravity acceleration in the Y-axis
+12,tGravityAcc-mean()-Z_1,Average of the Time Domain Signal of the body acceleration in the X-axis
+13,tGravityAcc-std()-X_1,Standard Deviation of the Time Domain Signal of the gravity acceleration in the X-axis
+14,tGravityAcc-std()-Y_1,Standard Deviation of the Time Domain Signal of the gravity acceleration in the Y-axis
+15,tGravityAcc-std()-Z_1,Standard Deviation of the Time Domain Signal of the gravity acceleration in the Z-axis
+16,tBodyAccJerk-mean()-X_1,Average of the Jerk Signal of the body acceleration in the X-axis. Jerk Signal is obtained by deriving in time the original linear acceleration
+17,tBodyAccJerk-mean()-Y_1,Average of the Jerk Signal of the body acceleration in the Y-axis. Jerk Signal is obtained by deriving in time the original linear acceleration
+18,tBodyAccJerk-mean()-Z_1,Average of the Jerk Signal of the body acceleration in the Z-axis. Jerk Signal is obtained by deriving in time the original linear acceleration
+19,tBodyAccJerk-std()-X_1,Standard Deviation of the Jerk Signal of the body acceleration in the X-axis. Jerk Signal is obtained by deriving in time the original linear acceleration
+20,tBodyAccJerk-std()-Y_1,Standard Deviation of the Jerk Signal of the body acceleration in the Y-axis. Jerk Signal is obtained by deriving in time the original linear acceleration
+21,tBodyAccJerk-std()-Z_1,Standard Deviation of the Jerk Signal of the body acceleration in the Z-axis. Jerk Signal is obtained by deriving in time the original linear acceleration
+22,tBodyGyro-mean()-X_1,Average of the Time Domain Signal of the body angular velocity in the X-axis
+23,tBodyGyro-mean()-Y_1,Average of the Time Domain Signal of the body angular velocity in the Y-axis
+24,tBodyGyro-mean()-Z_1,Average of the Time Domain Signal of the body angular velocity in the Z-axis
+25,tBodyGyro-std()-X_1,Standard Deviation of the Time Domain Signal of the body angular velocity in the X-axis
+26,tBodyGyro-std()-Y_1,Standard Deviation of the Time Domain Signal of the body angular velocity in the Y-axis
+27,tBodyGyro-std()-Z_1,Standard Deviation of the Time Domain Signal of the body angular velocity in the Z-axis
+28,tBodyGyroJerk-mean()-X_1,Average of the Jerk Signal of the body angular velocity in the X-axis. Jerk Signal is obtained by deriving in time the original angular velocity
+29,tBodyGyroJerk-mean()-Y_1,Average of the Jerk Signal of the body angular velocity in the Y-axis. Jerk Signal is obtained by deriving in time the original angular velocity
+30,tBodyGyroJerk-mean()-Z_1,Average of the Jerk Signal of the body angular velocity in the Z-axis. Jerk Signal is obtained by deriving in time the original angular velocity
+31,tBodyGyroJerk-std()-X_1,Standard Deviation of the Jerk Signal of the body angular velocity in the X-axis. Jerk Signal is obtained by deriving in time the original angular velocity
+32,tBodyGyroJerk-std()-Y_1,Standard Deviation of the Jerk Signal of the body angular velocity in the Y-axis. Jerk Signal is obtained by deriving in time the original angular velocity
+33,tBodyGyroJerk-std()-Z_1,Standard Deviation of the Jerk Signal of the body angular velocity in the Z-axis. Jerk Signal is obtained by deriving in time the original angular velocity
+34,tBodyAccMag-mean()_1,Average of the magnitude of the three dimensional signals from the body acceleration. Calculated using the Euclidean norm
+35,tBodyAccMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the body acceleration. Calculated using the Euclidean norm
+36,tGravityAccMag-mean()_1,Average of the magnitude of the three dimensional signals from the gravity acceleration. Calculated using the Euclidean norm
+37,tGravityAccMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the gravity acceleration. Calculated using the Euclidean norm
+38,tBodyAccJerkMag-mean()_1,Average of the magnitude of the three dimensional signals from the Jerk Signal body acceleration. Calculated using the Euclidean norm
+39,tBodyAccJerkMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the Jerk Signal body acceleration. Calculated using the Euclidean norm
+40,tBodyGyroMag-mean()_1,Average of the magnitude of the three dimensional signals from the body angular velocity. Calculated using the Euclidean norm
+41,tBodyGyroMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the body angular velocity. Calculated using the Euclidean norm
+42,tBodyGyroJerkMag-mean()_1,Average of the magnitude of the three dimensional signals from the Jerk Signal body angular velocity. Calculated using the Euclidean norm
+43,tBodyGyroJerkMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the Jerk Signal body angular velocity. Calculated using the Euclidean norm
+44,fBodyAcc-mean()-X_1,Average of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the X-axis
+45,fBodyAcc-mean()-Y_1,Average of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the Y-axis
+46,fBodyAcc-mean()-Z_1,Average of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the Z-axis
+47,fBodyAcc-std()-X_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the X-axis
+48,fBodyAcc-std()-Y_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the Y-axis
+49,fBodyAcc-std()-Z_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the Z-axis
+50,fBodyAcc-meanFreq()-X_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the X-axis
+51,fBodyAcc-meanFreq()-Y_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the Y-axis
+52,fBodyAcc-meanFreq()-Z_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the body acceleration in the Z-axis
+53,fBodyAccJerk-mean()-X_1,Average of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the X-axis
+54,fBodyAccJerk-mean()-Y_1,Average of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the Y-axis
+55,fBodyAccJerk-mean()-Z_1,Average of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the Z-axis
+56,fBodyAccJerk-std()-X_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the X-axis
+57,fBodyAccJerk-std()-Y_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the Y-axis
+58,fBodyAccJerk-std()-Z_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the Z-axis
+59,fBodyAccJerk-meanFreq()-X_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the X-axis
+60,fBodyAccJerk-meanFreq()-Y_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the Y-axis
+61,fBodyAccJerk-meanFreq()-Z_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the Jerk Signal of the body acceleration in the Z-axis
+62,fBodyGyro-mean()-X_1,Average of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the X-axis
+63,fBodyGyro-mean()-Y_1,Average of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the Y-axis
+64,fBodyGyro-mean()-Z_1,Average of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the Z-axis
+65,fBodyGyro-std()-X_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the X-axis
+66,fBodyGyro-std()-Y_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the Y-axis
+67,fBodyGyro-std()-Z_1,Standard Deviation of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the Z-axis
+68,fBodyGyro-meanFreq()-X_1,Weighted average of the frequency components of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the X-axis
+69,fBodyGyro-meanFreq()-Y_1,Weighted average of the frequency components  of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the Y-axis
+70,fBodyGyro-meanFreq()-Z_1,Weighted average of the frequency components  of the Fast Fourier Transform of Time Domain Signal of the body angular velocity in the Z-axis
+71,fBodyAccMag-mean()_1,Average of the magnitude of the three dimensional signals from the body acceleration in the frequency domain. Calculated using the Euclidean norm
+72,fBodyAccMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the body acceleration inthe frequency domain. Calculated using the Euclidean norm
+73,fBodyAccMag-meanFreq()_1,Weighted average of the frequency components of the magnitude of the three dimensional signals from the body acceleration in the frequency domain. Calculated using the Euclidean norm
+74,fBodyBodyAccJerkMag-mean()_1,Average of the magnitude of the three dimensional signals from the body acceleration Jerk Signal in the frequency domain. Calculated using the Euclidean norm
+75,fBodyBodyAccJerkMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the body acceleration Jerk Signal inthe frequency domain. Calculated using the Euclidean norm
+76,fBodyBodyAccJerkMag-meanFreq()_1,Weighted average of the frequency components of the magnitude of the three dimensional signals from the body acceleration Jerk Signal in the frequency domain. Calculated using the Euclidean norm
+77,fBodyBodyGyroMag-mean()_1,Average of the magnitude of the three dimensional signals from the angular velocity in the frequency domain. Calculated using the Euclidean norm
+78,fBodyBodyGyroMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the angular velocity inthe frequency domain. Calculated using the Euclidean norm
+79,fBodyBodyGyroMag-meanFreq()_1,Weighted average of the frequency components of the magnitude of the three dimensional signals from the angular velocity in the frequency domain. Calculated using the Euclidean norm
+80,fBodyBodyGyroJerkMag-mean()_1,Average of the magnitude of the three dimensional signals from the velocity Jerk Signal in the frequency domain. Calculated using the Euclidean norm
+81,fBodyBodyGyroJerkMag-std()_1,Standard Deviation of the magnitude of the three dimensional signals from the velocity Jerk Signal inthe frequency domain. Calculated using the Euclidean norm
+82,fBodyBodyGyroJerkMag-meanFreq()_1,Weighted average of the frequency components of the magnitude of the three dimensional signals from the velocity Jerk Signal in the frequency domain. Calculated using the Euclidean norm
